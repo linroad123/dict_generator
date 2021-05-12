@@ -1,0 +1,13 @@
+admin
+manager
+admin123
+admin666
+admin888
+admin@1
+admin@123
+administrator
+root
+guest
+manage
+123456
+666666
